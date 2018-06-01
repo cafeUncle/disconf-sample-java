@@ -9,5 +9,8 @@
         <module name="disconf-sample-java" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="disconf-sample-java" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
