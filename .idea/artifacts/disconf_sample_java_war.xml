@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="disconf-sample-java:war">
     <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="spring-web-maven-base.war">
+    <root id="archive" name="disconf-sample-java.war">
       <element id="artifact" artifact-name="disconf-sample-java:war exploded" />
     </root>
   </artifact>
